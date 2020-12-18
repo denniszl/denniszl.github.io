@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Dennis rants here</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Posts on Dennis rants here</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 01 Oct 2019 20:41:54 -0700</lastBuildDate>
-    
-	<atom:link href="https://denniszl.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 01 Oct 2019 20:41:54 -0700</lastBuildDate><atom:link href="https://denniszl.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Studying for the JLPT</title>
       <link>https://denniszl.github.io/posts/post2/</link>
